@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--    Created by Deni Supriyatna (deni ace) on 29 - 05 - 2020.-->
+<!--    Email : denisupriyatna01@gmail.com-->
+
+<resources>
+    <string name="app_name">Tentang Saya</string>
+    <string name="judul_profile">Profil Pembuat Aplikasi</string>
+    <string name="full_name">Deni Supriyatna</string>
+    <string name="nick_name">Deni Ace</string>
+    <string name="email">denisupriyatna01@gmail.com</string>
+</resources>
